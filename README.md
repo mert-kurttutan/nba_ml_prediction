@@ -3,6 +3,7 @@ This repository includes data processing tools ans steps taken to create and ML 
 
 
 The following steps will be explained soon
+- setting appropriate configs (AWS credentials, configs etc) 
 - how to reproduce data processing steps, using automation tools (e.g. Apache Airflow)
 - run the app
-- setting appropriate configs (AWS credentials, configs etc) 
+# ML_NBA_prediction
